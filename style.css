@@ -167,6 +167,9 @@ header{
     display: flex;
     gap:30px;
 }
+.Brands{
+    margin: auto 120px;
+}
 
 .Bottom-brands img{
     height: 350px;
